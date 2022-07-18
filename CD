@@ -1,0 +1,5 @@
+git add introduction.js
+git add variables.js
+git add strings.js
+git add string-length.js
+Run git commit -m "Initial commit with all my work so far"
